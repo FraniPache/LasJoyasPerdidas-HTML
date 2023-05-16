@@ -1,1 +1,77 @@
+body {
+    background-color: chocolate;
+}
+header {
+    background-color: coral;
+    color: #ffff;
+    margin-left: -0.15cm;
+    margin-right: -0.2cm;
+    margin-top: -0.5cm;
+}
+#imgancha {
+    display: block;
+    width: 500px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+}
 
+h6 {
+    text-align: center;
+}
+
+#eleccion {
+    background-color: coral;
+    color: #ffff;
+    text-align: center;
+
+}
+footer {
+    background-color: coral;
+    color: #ffff;
+    text-align: center;
+    outline: auto;
+    outline-width: 1mm;
+    border-radius: 1cm;
+}
+
+#carta {
+    font-size: large;
+    background-color: #ffff;
+    outline-color: black;
+    margin: 1cm;
+    text-align: justify;
+    border-radius: auto;
+}
+
+#final {
+    text-align: center;
+}
+
+#imgalta {
+    display: block;
+    width: 300px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#creditos {
+    background-color: #ffff;
+    text-align: center;
+}
+
+.imgseguida1 {
+    width: 50%;
+    height: 500px;
+    padding: 5px;
+    float: left;
+    box-sizing: border-box;
+}
+.imgseguida2 {
+    width: 50%;
+    height: 500px;
+    padding: 5px;
+    float: left;
+    box-sizing: border-box;
+}
